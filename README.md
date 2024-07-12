@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ray! <br/><a href="https://github.com/zerocaloray">Programmer</a>, <a href="https://www.linkedin.com/in/zerocaloray/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/zerocaloray">YouTuber</a></h1>
+<h1>Hi, I'm Ray! <br/><a href="https://github.com/zerocaloray">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/zerocaloray/">DevOps Engineer</a>, <a href="https://www.youtube.com/c/zerocaloray">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
